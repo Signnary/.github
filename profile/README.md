@@ -46,13 +46,13 @@ We have implemented several features in this application. These features include
 - <b> Machine Learning: </b>
   - [NumPy](https://numpy.org/)
   - [Pillow](https://python-pillow.org/)
-  - [PythonV.39] (https://www.python.org/downloads/)  
-  - [TensorflowV2.10.1] (https://www.tensorflow.org/)
+  - [PythonV.39](https://www.python.org/downloads/)  
+  - [TensorflowV2.10.1](https://www.tensorflow.org/)
 
 - - <b> Cloud & Backend: </b>
   - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
-  - [RequestPy] (https://pypi.org/project/requests/)
-  - [ComputeEngine] (https://pypi.org/project/requests/)
+  - [RequestPy](https://pypi.org/project/requests/)
+  - [ComputeEngine](https://pypi.org/project/requests/)
 # Documentation
 ## Mobile Development
 For our Mobile Development documentation, [click here](https://github.com/Signnary/)
