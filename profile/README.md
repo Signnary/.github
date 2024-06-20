@@ -55,8 +55,8 @@ We have implemented several features in this application. These features include
   - [ComputeEngine](https://pypi.org/project/requests/)
 # Documentation
 ## Mobile Development
-For our Mobile Development documentation, [click here](https://github.com/Signnary/)
+For our Mobile Development documentation, [click here](https://github.com/Signnary/Signnary-MD#readme)
 ## Machine Learning
-For our Machine Learning documentation, [click here](https://github.com/Signnary/)
+For our Machine Learning documentation, [click here](https://github.com/Signnary/Signnary-ML#readme)
 ## Cloud Computing
 For our Cloud Computing documentation, [click here](https://github.com/Signnary/Signnary#readme)
